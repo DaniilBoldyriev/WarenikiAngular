@@ -1,0 +1,28 @@
+td.mat-cell, th.mat-header-cell {
+  padding: 0 15px;
+
+  .mat-icon {
+
+  }
+}
+
+.mat-row:hover {
+  cursor: pointer;
+  background: rgba(0, 0, 0, .2);
+}
+
+.btns-row {
+  margin-bottom: 20px;
+
+  button {
+    margin-right: 20px;
+  }
+}
+
+.max-width {
+  max-width: 30vw;
+}
+
+.report-btn {
+  margin-left: 20px;
+}
